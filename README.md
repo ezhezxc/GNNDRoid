@@ -25,7 +25,7 @@ Two new folders are generated in ./graphs and ./graphs_to_train
         ├── ...
                   
     # generated FCGs
-    ./graphs/
+    ./graphs_to_train/
     └── $input_dir_name
         └── $apk_name
             ├── callgraph.gml
